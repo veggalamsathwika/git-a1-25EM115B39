@@ -1,4 +1,6 @@
 Campus Canteen Menu
-Samosa -15
+Samosa-20
 Tea-10
 Veg Sandwich-30
+Idli-25
+Coffee-15
